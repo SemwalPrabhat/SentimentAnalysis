@@ -4,7 +4,7 @@ import time
 import numpy as np
 
 # load the model
-model = pickle.load(open('pipe1.pkl', 'rb'))
+model = pickle.load(open('https://github.com/SemwalPrabhat/SentimentAnalysis/blob/main/pipe1.pkl', 'rb'))
 
 st.title('Twitter Sentiment Analysis')
 
