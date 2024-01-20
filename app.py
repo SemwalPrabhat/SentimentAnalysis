@@ -23,4 +23,4 @@ if submit:
         "Neutral"
     if(prediction[0]==2):
         "Positive"
-    st.write(prediction[0])
+
